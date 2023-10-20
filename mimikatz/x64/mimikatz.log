@@ -1,0 +1,144 @@
+﻿  kull_m_acr.c
+  kull_m_asn1.c
+  kull_m_busylight.c
+  kull_m_cabinet.c
+  kull_m_cred.c
+  kull_m_crypto.c
+  kull_m_crypto_ngc.c
+  kull_m_crypto_remote.c
+  kull_m_crypto_sk.c
+  kull_m_dpapi.c
+  kull_m_file.c
+  kull_m_handle.c
+  kull_m_hid.c
+  kull_m_kernel.c
+  kull_m_key.c
+  kull_m_ldap.c
+  kull_m_net.c
+  kull_m_memory.c
+  kull_m_minidump.c
+  kull_m_output.c
+  Compiling...
+  kull_m_patch.c
+  kull_m_pipe.c
+  kull_m_pn532.c
+  kull_m_process.c
+  kull_m_rdm.c
+  kull_m_registry.c
+  kull_m_remotelib.c
+  kull_m_sr98.c
+  kull_m_rpc.c
+  kull_m_rpc_bkrp.c
+  kull_m_rpc_dpapi-entries.c
+  kull_m_rpc_drsr.c
+  kull_m_rpc_mimicom.c
+  kull_m_rpc_ms-bkrp_c.c
+  kull_m_rpc_ms-claims.c
+  kull_m_rpc_ms-credentialkeys.c
+  kull_m_rpc_ms-dcom_IObjectExporter_c.c
+  kull_m_rpc_ms-drsr_c.c
+  kull_m_rpc_ms-efsr_c.c
+  kull_m_rpc_ms-nrpc_c.c
+  Compiling...
+  kull_m_rpc_ms-odj.c
+  kull_m_rpc_ms-pac.c
+  kull_m_service.c
+  kull_m_string.c
+  kull_m_token.c
+  kull_m_xml.c
+  kull_m_rpc_ms-par_c.c
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\modules\rpc\kull_m_rpc_ms-rprn.h(7,1): warning C4005: 'PRINTER_NOTIFY_CATEGORY_ALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winspool.h(2405,1): message : see previous definition of 'PRINTER_NOTIFY_CATEGORY_ALL'
+  kull_m_rpc_ms-rprn.c
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\modules\rpc\kull_m_rpc_ms-rprn.h(7,1): warning C4005: 'PRINTER_NOTIFY_CATEGORY_ALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winspool.h(2405,1): message : see previous definition of 'PRINTER_NOTIFY_CATEGORY_ALL'
+  mimikatz.c
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\modules\rpc\kull_m_rpc_ms-rprn.h(7,1): warning C4005: 'PRINTER_NOTIFY_CATEGORY_ALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winspool.h(2405,1): message : see previous definition of 'PRINTER_NOTIFY_CATEGORY_ALL'
+  kuhl_m_crypto_extractor.c
+  kuhl_m_crypto_patch.c
+  kuhl_m_crypto_pki.c
+  kuhl_m_crypto_sc.c
+  kuhl_m_dpapi.c
+  kuhl_m_dpapi_oe.c
+  kuhl_m_dpapi_chrome.c
+  kuhl_m_dpapi_citrix.c
+  kuhl_m_dpapi_cloudap.c
+  kuhl_m_dpapi_creds.c
+  kuhl_m_dpapi_keys.c
+  Compiling...
+  kuhl_m_dpapi_lunahsm.c
+  kuhl_m_dpapi_powershell.c
+  kuhl_m_dpapi_rdg.c
+  kuhl_m_dpapi_sccm.c
+  kuhl_m_dpapi_ssh.c
+  kuhl_m_dpapi_wlan.c
+  kuhl_m_kerberos.c
+  kuhl_m_kerberos_ccache.c
+  kuhl_m_kerberos_claims.c
+  kuhl_m_kerberos_pac.c
+  kuhl_m_kerberos_ticket.c
+  kuhl_m_acr.c
+  kuhl_m_busylight.c
+  kuhl_m_crypto.c
+  kuhl_m_event.c
+  kuhl_m_iis.c
+  kuhl_m_kernel.c
+  kuhl_m_lsadump.c
+  kuhl_m_lsadump_remote.c
+  kuhl_m_misc.c
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\modules\rpc\kull_m_rpc_ms-rprn.h(7,1): warning C4005: 'PRINTER_NOTIFY_CATEGORY_ALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winspool.h(2405,1): message : see previous definition of 'PRINTER_NOTIFY_CATEGORY_ALL'
+  Compiling...
+  kuhl_m_net.c
+  kuhl_m_privilege.c
+  kuhl_m_process.c
+  kuhl_m_rdm.c
+  kuhl_m_sr98.c
+  kuhl_m_rpc.c
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\modules\rpc\kull_m_rpc_ms-rprn.h(7,1): warning C4005: 'PRINTER_NOTIFY_CATEGORY_ALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winspool.h(2405,1): message : see previous definition of 'PRINTER_NOTIFY_CATEGORY_ALL'
+  kuhl_m_service.c
+  kuhl_m_service_remote.c
+  kuhl_m_sid.c
+  kuhl_m_standard.c
+  kuhl_m_sysenvvalue.c
+  kuhl_m_token.c
+  kuhl_m_ts.c
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz\modules\kuhl_m_ts.c(480,72): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz\modules\kuhl_m_ts.c(480,103): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz\modules\kuhl_m_ts.c(488,63): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'BOOL'
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz\modules\kuhl_m_ts.c(504,65): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz\modules\kuhl_m_ts.c(506,85): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz\modules\kuhl_m_ts.c(511,86): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz\modules\kuhl_m_ts.c(515,16): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz\modules\kuhl_m_ts.c(523,88): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+  kuhl_m_vault.c
+  kuhl_m_minesweeper.c
+  kuhl_m_lsadump_dc.c
+  kuhl_m_misc_citrix.c
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\modules\rpc\kull_m_rpc_ms-rprn.h(7,1): warning C4005: 'PRINTER_NOTIFY_CATEGORY_ALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winspool.h(2405,1): message : see previous definition of 'PRINTER_NOTIFY_CATEGORY_ALL'
+  kuhl_m_misc_djoin.c
+C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\modules\rpc\kull_m_rpc_ms-rprn.h(7,1): warning C4005: 'PRINTER_NOTIFY_CATEGORY_ALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winspool.h(2405,1): message : see previous definition of 'PRINTER_NOTIFY_CATEGORY_ALL'
+  kuhl_m_ngc.c
+  kuhl_m_sekurlsa_nt5.c
+  Compiling...
+  kuhl_m_sekurlsa_nt6.c
+  kuhl_m_sekurlsa.c
+  kuhl_m_sekurlsa_sk.c
+  kuhl_m_sekurlsa_utils.c
+  kuhl_m_sekurlsa_cloudap.c
+  kuhl_m_sekurlsa_credman.c
+  kuhl_m_sekurlsa_dpapi.c
+  kuhl_m_sekurlsa_kerberos.c
+  kuhl_m_sekurlsa_livessp.c
+  kuhl_m_sekurlsa_msv1_0.c
+  kuhl_m_sekurlsa_ssp.c
+  kuhl_m_sekurlsa_tspkg.c
+  kuhl_m_sekurlsa_wdigest.c
+  sqlite3.c
+  Generating code
+  Finished generating code
+  mimikatz.vcxproj -> C:\Users\vboxuser\Downloads\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\mimikatz-a2ac6176385294fd8fecdd1acb2c0cbce2dfaa76\x64\mimikatz.exe
